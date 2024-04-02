@@ -1,6 +1,6 @@
 # K-S-HEMANTHKUMAR
 <h1 align="center">Hi 👋, I'm K S HEMANTHKUMAR</h1>
-<img src="![Brown Wood Minimalist Profile LinkedIn Banner]">
+<img src="https://www.canva.com/design/DAF5ylCK918/FlEH0TmvbSlqM5s4EmOWcg/edit?utm_content=DAF5ylCK918&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
